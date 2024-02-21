@@ -6,7 +6,7 @@ I ❤️ open source!
 
 #### My Work & Shenanigans
 
-- [GitLens for VS Code](https://github.com/gitkraken/vscode-gitlens): the most popular Git extension on the Visual Studio Marketplace
+- [GitLens for VS Code](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): the most popular Git extension on the Visual Studio Marketplace
 - [Portfolio site](https://keithdaulton.com/): finally updated after being nearly untouched since 2015
 
 <!--
